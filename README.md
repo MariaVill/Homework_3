@@ -13,7 +13,7 @@
 3 -> 1, 8, 27
 5 -> 1, 8, 27, 64, 125
 
-[Блок-схема](Task2/diagram2.drawio.png // [Код](Task2/Program.cs)
+[Блок-схема](Task2/diagram2.drawio.png) // [Код](Task2/Program.cs)
 
 # * Задача 21
 
